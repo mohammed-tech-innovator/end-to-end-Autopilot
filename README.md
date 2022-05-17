@@ -28,3 +28,6 @@ the images from the screen every time one of the keys associated with the four a
 pressed, the program then rescale the image to 224x78 and save the image for the training
 phase.
 link : https://drive.google.com/file/d/1qsP3Hz2vY39LSvHtxNn9tQd9p4X9DOBy/view?usp=sharing
+# actual performance 
+ResNets-based Model : https://www.youtube.com/watch?v=Do-ODz6dHFw
+VGG-based Model : https://www.youtube.com/watch?v=Xf3BqoGuUOw
