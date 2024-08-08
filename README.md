@@ -18,12 +18,7 @@ Instance normalization is applied after each convolutional layer.
 Consists of two convolutional layer followed by residual layers and finally fully connected
 layers.
 #  Dataset
-Grand Theft Auto Vice City (2002). New York, NY: Rockstar Games was
-found to be a perfect candidate for the simulation environment; since the video game
-wasn’t developed as a self-driving cars simulator we build a python program that captures
-the images from the screen every time one of the keys associated with the four actions is
-pressed, the program then rescale the image to 224x78 and save the image for the training
-phase.
+Grand Theft Auto: Vice City (2002, New York, NY: Rockstar Games) was identified as an ideal candidate for the simulation environment. Since the game was not originally designed as a self-driving car simulator, a custom Python program was developed to capture screen images whenever one of the keys associated with the four driving actions was pressed. The program then rescaled the images to 224x78 pixels and saved them for the training phase.
 - link : https://drive.google.com/file/d/1qsP3Hz2vY39LSvHtxNn9tQd9p4X9DOBy/view?usp=sharing
 # Performance 
 - ResNets-based Model : https://www.youtube.com/watch?v=Do-ODz6dHFw 
