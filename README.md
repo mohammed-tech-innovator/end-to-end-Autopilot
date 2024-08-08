@@ -29,11 +29,11 @@ wasn’t developed as a self-driving cars simulator we build a python program th
 the images from the screen every time one of the keys associated with the four actions is
 pressed, the program then rescale the image to 224x78 and save the image for the training
 phase.
-link : https://drive.google.com/file/d/1qsP3Hz2vY39LSvHtxNn9tQd9p4X9DOBy/view?usp=sharing
+- link : https://drive.google.com/file/d/1qsP3Hz2vY39LSvHtxNn9tQd9p4X9DOBy/view?usp=sharing
 # actual performance 
 - ResNets-based Model : https://www.youtube.com/watch?v=Do-ODz6dHFw 
-
-VGG-based Model : https://www.youtube.com/watch?v=Xf3BqoGuUOw
+- VGG-based Model : https://www.youtube.com/watch?v=Xf3BqoGuUOw
+- 
 # Paper and research Poster
 - Paper : https://doi.org/10.22541/au.169175909.96817606/v1
 - Poster : https://neurips.cc/media/PosterPDFs/NeurIPS%202022/65400.png?t=1668547489.7328138
