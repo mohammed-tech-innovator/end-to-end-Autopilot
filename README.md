@@ -7,10 +7,10 @@ Two models influenced by NVidia End to End have been developed, the first one
 utilized the VGG architecture while the second is based on the ResNests architecture
 both of the two models uses Mish activation and instance normalization
 between convolutional layers, the two models maps the input images into four actions:
-• Speedup
-• Break
-• Left
-• Righ
+- Speedup
+- Break
+- Left
+- Righ
 # VGG-based model
 composed of layers connected in series (single path from the input to the output), 6 convolutional layers followed by 5 fully-connected layers, 
 Instance normalization is applied after each convolutional layer.
