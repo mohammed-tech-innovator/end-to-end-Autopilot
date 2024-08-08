@@ -32,3 +32,6 @@ link : https://drive.google.com/file/d/1qsP3Hz2vY39LSvHtxNn9tQd9p4X9DOBy/view?us
 ResNets-based Model : https://www.youtube.com/watch?v=Do-ODz6dHFw 
 
 VGG-based Model : https://www.youtube.com/watch?v=Xf3BqoGuUOw
+# Paper and research Poster
+Paper : https://www.authorea.com/users/651594/articles/659499-design-and-implementation-of-a-computer-vision-based-autopilot-in-a-simulation-environment
+Poster : https://neurips.cc/media/PosterPDFs/NeurIPS%202022/65400.png?t=1668547489.7328138
