@@ -1,4 +1,6 @@
 # End to End Learning for Self-Driving Cars
+This project showcases the training and development of a deep learning model that autonomously controls a self-driving car in an end-to-end manner, processing images directly to actions. As part of a broader initiative, this project was featured in a report by Al-Arabi TV network and won the Best Graduation Project award.
+
 Directly maps the Images from the environment into a set of unique actions, the physical
 state of the car acts as a memory to the system, external environmental factors will also
 influence the physical state of the car, the whole system forms a closed-loop system, the
@@ -29,9 +31,9 @@ pressed, the program then rescale the image to 224x78 and save the image for the
 phase.
 link : https://drive.google.com/file/d/1qsP3Hz2vY39LSvHtxNn9tQd9p4X9DOBy/view?usp=sharing
 # actual performance 
-ResNets-based Model : https://www.youtube.com/watch?v=Do-ODz6dHFw 
+- ResNets-based Model : https://www.youtube.com/watch?v=Do-ODz6dHFw 
 
 VGG-based Model : https://www.youtube.com/watch?v=Xf3BqoGuUOw
 # Paper and research Poster
-Paper : https://www.authorea.com/users/651594/articles/659499-design-and-implementation-of-a-computer-vision-based-autopilot-in-a-simulation-environment
-Poster : https://neurips.cc/media/PosterPDFs/NeurIPS%202022/65400.png?t=1668547489.7328138
+- Paper : https://www.authorea.com/users/651594/articles/659499-design-and-implementation-of-a-computer-vision-based-autopilot-in-a-simulation-environment
+- Poster : https://neurips.cc/media/PosterPDFs/NeurIPS%202022/65400.png?t=1668547489.7328138
